@@ -1,0 +1,94 @@
+body{
+    background-image:url(background.jpg);
+    background-size: 1600px;
+    color: whitesmoke;
+}
+
+.container{
+    padding: 50px;
+    width: 1000px;
+    margin-left: 13%;
+    margin-top: 2%;
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 20px;
+}
+
+.logo{
+    width: 150px;
+    margin: auto;
+    display: flex;
+    color: rgba(red, green, blue, 1);
+}
+.logotxt{
+    text-align: center;
+    margin-top: 3px;
+    margin-bottom: 1%;
+}
+
+.btn-group {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    text-align: center;
+    width: 800px;
+    background-color: #26d840;
+    margin-top: 15pt;
+    padding: 15px 32px;
+  }
+
+.corpo  {
+    width: 1200px;
+    margin-left:7%;
+    padding: 0%;
+}
+    
+h2{
+    display: inline-block;
+}
+
+.arrow:before{
+    content: "\27FC";
+}
+
+.location{
+    width: 20%; 
+    display:inline-block; 
+    padding:0px; 
+    margin:0px; 
+}
+
+hr{
+    margin-left: 0%;
+    margin-bottom: 3%;
+    border-radius: 5px;
+}
+
+#orange{
+    border-bottom: 20px solid orange;
+    margin: 0%;
+    width: 280px;
+}
+
+#green{
+    border-bottom: 20px solid rgb(11, 210, 11);
+    width: 390px;
+    margin: 0%;
+}
+
+#red{
+    border-bottom: 20px solid rgb(191, 16, 16);
+    width: 100px;
+    margin: 0%;
+}
+
+p{
+    margin-top: 6px;
+    margin-bottom: 3px;
+}
+
+h2{
+    margin-bottom: 10px
+}
+
+
